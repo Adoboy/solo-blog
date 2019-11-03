@@ -10,6 +10,7 @@
 
 ### 最新
 
+* [LinkedHashMap 与 HashMap 关系](https://www.liuhsb.cn/articles/2019/11/03/1572775958160.html)
 * [简单的规划一下自己的博客~ ](https://www.liuhsb.cn/articles/2019/10/31/1572461871415.html)
 * [生日快乐！24！！！ 要开始发力啊~ 冲冲冲](https://www.liuhsb.cn/articles/2019/10/27/1572190595350.html)
 
