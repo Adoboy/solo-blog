@@ -10,6 +10,8 @@
 
 ### 最新
 
+* [我在 GitHub 上的开源项目](https://www.liuhsb.cn/my-github-repos)
+* [IDEA，把断点打在了方法上面引起的....记一次沙雕操作..](https://www.liuhsb.cn/articles/2019/11/07/1573096608351.html)
 * [LinkedHashMap 与 HashMap 关系](https://www.liuhsb.cn/articles/2019/11/03/1572775958160.html)
 * [简单的规划一下自己的博客~ ](https://www.liuhsb.cn/articles/2019/10/31/1572461871415.html)
 * [生日快乐！24！！！ 要开始发力啊~ 冲冲冲](https://www.liuhsb.cn/articles/2019/10/27/1572190595350.html)
